@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TresEnRaya</string>
+    <string name="button_1player">One Player</string>
+    <string name="button_2player">Two Players</string>
+    <string name="radio_easy">Easy</string>
+    <string name="radio_hard">Hard</string>
+    <string name="radio_extreme">Extreme</string>
+    <string name="button_ranking">Ranking</string>
+    <string name="button_matches">Matches</string>
+    <string name="title_dialog">Insert a user</string>
+    <string name="username">Username</string>
+</resources>

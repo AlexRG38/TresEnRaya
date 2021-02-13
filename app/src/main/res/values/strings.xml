@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TresEnRaya</string>
+    <string name="button_1player">Un jugador</string>
+    <string name="button_2player">Dos jugadores</string>
+    <string name="radio_easy">Facil</string>
+    <string name="radio_hard">Dificil</string>
+    <string name="radio_extreme">Extremo</string>
+    <string name="button_ranking">Ranking</string>
+    <string name="button_matches">Partidos</string>
+    <string name="title_dialog">Inserte un usuario</string>
+    <string name="username">Nombre de usuario</string>
+</resources>
